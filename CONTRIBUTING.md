@@ -39,7 +39,7 @@ Making changes to LearnHowToProgram.com happens by creating a pull request (PR).
 
 6. Create a Pull Request
 
-	[How to create a pull request]()
+	[How to create a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 	Please provide a brief description with your pull request. Don't forget to link PR to issue if you are solving one.
 
