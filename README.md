@@ -6,7 +6,7 @@ Hi there.👋 My name is Morrie, Director of Curriculum at Epicodus. Welcome to 
 
 Participating in this community will give you insight into the development process and maintenance of Epicodus’s technical curriculum. You can ask questions, join the discussion forums, and offer constructive feedback. I’m here to offer my perspective as an instructional designer for Epicodus and to answer any questions you have.
 
-I can’t help with aspects outside Epicodus’s technical curriculum such as admissions, payment, policy, career services, or personal outcomes. For issues unrelated to the technical curriculum, contact Epicodus staff directly via the means described in this link to [Epicodus's handbook]().
+I can’t help with aspects outside Epicodus’s technical curriculum such as admissions, payment, policy, career services, or personal outcomes. For issues unrelated to the technical curriculum, contact Epicodus staff directly via the means described in this link to [Epicodus's handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook).
 
 ## CONTRIBUTING
 There are many ways to contribute. Please read the contributing guide below to learn how.
@@ -25,5 +25,5 @@ All content in this organization, Epicodus Curriculum, is copyrighted under [GPL
 Your contributions are invaluable for keeping Epicodus’s learning material relevant and creating meaningful learning opportunities.
 
 ## WHERE TO GO NEXT:
-* [Code of Conduct]()
-* [Contributing guide]()
+* [Code of Conduct](https://github.com/Epicodus-Curriculum/.github/blob/main/CODE_OF_CONDUCT.md)
+* [Contributing guide](https://github.com/Epicodus-Curriculum/.github/blob/main/CONTRIBUTING.md)
