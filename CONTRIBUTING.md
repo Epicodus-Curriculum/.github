@@ -2,13 +2,15 @@
 
 Thank you for investing your time to contribute to Epicodus's curriculum!
 
-[Read our Code of Conduct]() to keep our community approachable and respectable.
+Read our [Code of Conduct](https://github.com/Epicodus-Curriculum/.github/blob/main/CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
 ## Getting Started
 
-[Check what types of contributions we accept]() before making changes.
+1. Check what [types of contributions we accept](https://github.com/Epicodus-Curriculum/.github/blob/main/types_of_contributions.md).
 
-Our Markdown files use GitHub Flavored Markdown (GFM). You'll need to understand the basics of GFM to contribute. [Learn basic GitHub Flavored Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. Read our [style guide for LearnHowToProgram](https://github.com/Epicodus-Curriculum/.github/blob/main/style_guide.md).
+
+3. [Learn basic GitHub Flavored Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). Our Markdown files use GitHub Flavored Markdown (GFM). 
 
 LearnHowToProgram.com is built with Docusaurus that supports MDX. This is an advance topic and not nessessary to understand in order to contribute. We mention it here to provide additional context when reading our markdown files. If interested [learn the basics of MDX and React with Docusaurus.](https://docusaurus.io/docs/markdown-features)
 
